@@ -14,16 +14,6 @@
   <meta name="twitter:card" content="summary_large_image" />
 
   <!-- Minimal readability styles (safe to remove if your theme handles this) -->
-  <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;line-height:1.6;color:#0a0a0a;margin:0}
-    main{max-width:900px;margin:0 auto;padding:2rem 1rem}
-    h1,h2,h3{line-height:1.25}
-    hr{border:0;border-top:1px solid #e5e7eb;margin:1.5rem 0}
-    blockquote{border-left:4px solid #2563eb;background:#f7fbff;padding:.75rem 1rem;margin:1rem 0}
-    img{max-width:100%;height:auto}
-    ul{padding-left:1.2rem}
-    ol{padding-left:1.2rem}
-  </style>
 
   <!-- Article structured data -->
 </head>
