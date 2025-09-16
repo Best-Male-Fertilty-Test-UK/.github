@@ -3,7 +3,6 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Best Male Fertility Test UK 2025 | ExSeed vs Other Options</title>
   <meta name="description" content="Looking for the best male fertility test in the UK? Discover costs, London clinic options, and why ExSeed is the top at-home male fertility test—available on Amazon and ExSeed’s website." />
 
   <!-- Open Graph / Twitter -->
