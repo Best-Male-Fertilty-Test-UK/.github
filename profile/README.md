@@ -27,20 +27,6 @@
   </style>
 
   <!-- Article structured data -->
-  <script type="application/ld+json">
-  {
-    "@context":"https://schema.org",
-    "@type":"Article",
-    "headline":"Best Male Fertility Test in the UK: Top Picks for 2025",
-    "alternativeHeadline":"Best Male Fertility Test UK 2025 | ExSeed vs Other Options",
-    "datePublished":"2025-09-16",
-    "dateModified":"2025-09-16",
-    "author":{"@type":"Organization","name":"ExSeed Health"},
-    "publisher":{"@type":"Organization","name":"ExSeed Health"},
-    "mainEntityOfPage":"https://www.exseedhealth.com/best-male-fertility-test-uk",
-    "inLanguage":"en-GB"
-  }
-  </script>
 </head>
 <body>
   <main>
